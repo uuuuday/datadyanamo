@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        button{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam unde assumenda numquam veniam.
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint fuga incidunt inventore quod ab quia laudantium? Cum, aut quidem explicabo dolorum quod fuga pariatur magnam soluta velit obcaecati eveniet ad.
+    </div>
+    <h1 class="heading">red </h1>
+    <h2 class="heading">yellow</h2>
+    <h3 class="heading">green</h1>
+        <button style="color: pink;">hhhhhh</button>
+</body>
+</html>
